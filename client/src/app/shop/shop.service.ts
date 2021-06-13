@@ -1,6 +1,6 @@
 import { HttpClient, HttpParams } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { IBrand } from '../shared/model/brnad';
+import { IBrand } from '../shared/model/brand';
 import { IPagination } from '../shared/model/pagination';
 import { IType } from '../shared/model/productType';
 import { delay, map } from 'rxjs/operators';
